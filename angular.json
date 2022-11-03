@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "app-nexoalgustoelins"
+    }
+  },
+  "defaultProject": "app-nexoalgustoelins",
+  "cli": {
+    "analytics": false
+  }
 }
